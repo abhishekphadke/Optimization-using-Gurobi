@@ -1,0 +1,40 @@
+There are two adjacent tracts of timber in a small watershed
+called the upper Umpqua. Both land tracts are owned by
+Columbia Mill, a small forest products company. Each of
+these two tracts contain mature timber stands, which can be
+harvested. Columbia Mill plans to cut portions of these two
+stands to supply their mill for the next month. Then, they will
+move their cutting operations to other forest tracts that they
+own in a different watershed. The two tracts differ somewhat
+in their slope and size of timber. Columbia Mill plans to cut
+selected trees from each track, an approach called thinning.
+
+Thinning all of tract 1 will yield 225,000 board feet
+of lumber and thinning all of tract 2 will yield
+200,000 board feet of lumber. Columbia Mill needs
+a total of 250,000 board feet from these two tracts
+for their mill operations. It costs $600 per 1,000
+board feet to harvest from tract 1 and $400 per
+1,000 board feet harvested from tract 2. Harvesting
+from these two forest tracts will result in some
+erosion, which will end up as sediment in the
+Umpqua creek, even while maintaining no-harvest
+buffer zones along the creek.
+
+They are prevented by the state environmental
+protection agency from producing more than 4,500
+lbs. of sediment from their activities. The amount of
+sediment produced per 1,000 board feet harvested
+from tract 1 is 10 lbs. The amount of sediment
+generated per 1,000 board feet harvested in tract 2
+is 30 lbs. Columbia Mill needs to determine how
+much timber should be harvested from each tract?
+The objective is to find the least-cost timber supply
+plan for Columbia Mill.
+
+To solve this problem we need to identify how
+much timber should be harvested from each
+tract. Since these are the decisions to be made,
+we will represent these decisions with variables:
+
+
